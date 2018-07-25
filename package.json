@@ -1,6 +1,7 @@
 {
   "name": "deep-object-search",
   "version": "1.0.0",
+  "description": "Performs a traversal on a tree object",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -9,5 +10,28 @@
   },
   "dependencies": {
     "jest": "^23.4.1"
-  }
+  },
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/normancarcamo/deep-object-search.git"
+ },
+ "keywords": [
+    "Norman Carcamo",
+    "normancarcamo",
+    "norman",
+    "normanenmanuel",
+    "object-deep-search",
+    "deep-search-object",
+    "traversal-deep-search-object",
+    "traversal",
+    "traversal-object",
+    "traversal-search",
+    "traversal-search-object",
+    "search-deep-object"
+  ],
+  "author": "Norman Carcamo",
+  "bugs": {
+    "url": "https://github.com/normancarcamo/deep-object-search/issues"
+  },
+  "homepage": "https://github.com/normancarcamo/deep-object-search#readme"
 }
