@@ -33,7 +33,6 @@ describe("deep-object-search", () => {
     expect(fn({}, {})).toEqual({ found: false });
     expect(fn({},'dknf')).toEqual({ found: false });
   });
-
   it("should found when uses a path or key name", () => {
     // Assert:
     const tree = {
