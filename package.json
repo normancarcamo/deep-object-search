@@ -1,0 +1,13 @@
+{
+  "name": "deep-object-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/jest --expand --colors --verbose --bail --coverage",
+    "test-watch": "./node_modules/.bin/jest --watchAll --expand --colors --verbose --bail --coverage"
+  },
+  "dependencies": {
+    "jest": "^23.4.1"
+  }
+}
